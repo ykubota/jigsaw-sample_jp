@@ -1,0 +1,3 @@
+module music {
+  requires server;
+}
