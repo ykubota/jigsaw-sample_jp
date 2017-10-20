@@ -167,7 +167,6 @@ mlibs
 ```
 % du -h dist | tail -n 1
 33M     dist
-33M     .
 $ du -h ${JAVA_HOME} | tail -n 1
 544M    /home/ykubota/jdk-9/
 ```
